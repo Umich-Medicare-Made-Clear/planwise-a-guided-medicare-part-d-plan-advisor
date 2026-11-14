@@ -9,6 +9,6 @@ Both notebooks include saved outputs for review without running Python. The inte
 
 ## Running the notebooks
 
-This initial upload contains the review notebooks only. To rerun them, obtain the prepared `Planwise_Data_Integration_Handoff.zip` from Rechelle and extract its `planwise_data` folder, which includes the supporting scripts, evidence, reference data, requirements, and prepared `data/planwise.duckdb` database. Follow that package’s README for environment setup, open the notebooks from the `planwise_data` folder, and select the configured Python environment.
+To rerun the notebooks, download [Planwise_Data_Integration_Handoff.zip](Planwise_Data_Integration_Handoff.zip?raw=true) and extract its `planwise_data` folder, which includes the supporting scripts, evidence, reference data, requirements, and prepared `data/planwise.duckdb` database. Follow that package’s README for environment setup, open the notebooks from the `planwise_data` folder, and select the configured Python environment.
 
-The database and large downloaded source archives are not included in this repository. The original intake design is Taylor’s; the connected version preserves that structure and replaces placeholder selections with source-linked medication and pharmacy records.
+The prepared database is included inside the handoff ZIP. The large original source archives and Python environment are not included. The original intake design is Taylor’s; the connected version preserves that structure and replaces placeholder selections with source-linked medication and pharmacy records.
