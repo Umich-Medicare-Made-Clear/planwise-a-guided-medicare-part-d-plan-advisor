@@ -1,0 +1,1772 @@
+[
+  {
+    "profile_id": "MI_SYN_001",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "48104",
+      "medications": [
+        {
+          "medication_name": "Amlodipine besylate and Atorvastatin calcium",
+          "rxcui": "404013",
+          "ndc": "43598031330",
+          "strength": "10; 80 mg/1; mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": false
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101013922152",
+        "chain_name": "ANN ARBOR PHARMACY LLC",
+        "location_name": "ANN ARBOR PHARMACY LLC",
+        "address": "2418 E STADIUM BLVD",
+        "city": "ANN ARBOR",
+        "zip_code": "48104"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "Yes"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Yes"
+    },
+    "tier3": {
+      "explanation_focus": "Estimated annual total"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_002",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "48104",
+      "medications": [
+        {
+          "medication_name": "Norvasc",
+          "rxcui": "212542",
+          "ndc": "00069152068",
+          "strength": "2.5 mg/1",
+          "dosage_form": "TABLET",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Avalide",
+          "rxcui": "823934",
+          "ndc": "00024585530",
+          "strength": "150; 12.5 mg/1; mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101689180226",
+        "chain_name": "CVS PHARMACY #03584",
+        "location_name": "CVS PHARMACY #03584",
+        "address": "209 S STATE ST",
+        "city": "ANN ARBOR",
+        "zip_code": "48104"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "No"
+    },
+    "tier3": {
+      "explanation_focus": "Monthly premium and prescription payments"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_003",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "48108",
+      "medications": [
+        {
+          "medication_name": "Omeprazole",
+          "rxcui": "199119",
+          "ndc": "00781285931",
+          "strength": "10 mg/1",
+          "dosage_form": "CAPSULE, DELAYED RELEASE",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Tamsulosin Hydrochloride",
+          "rxcui": "863669",
+          "ndc": "68382013201",
+          "strength": ".4 mg/1",
+          "dosage_form": "CAPSULE",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Xarelto",
+          "rxcui": "2588066",
+          "ndc": "50458057501",
+          "strength": "155 mg/1",
+          "dosage_form": "GRANULE, FOR SUSPENSION",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101497014757",
+        "chain_name": "COSTCO PHARMACY #1106",
+        "location_name": "COSTCO PHARMACY #1106",
+        "address": "771 AIRPORT BLVD",
+        "city": "ANN ARBOR",
+        "zip_code": "48108"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Not sure"
+    },
+    "tier3": {
+      "explanation_focus": "Why costs may vary during the year"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_004",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "48912",
+      "medications": [
+        {
+          "medication_name": "Crestor",
+          "rxcui": "859426",
+          "ndc": "00310756090",
+          "strength": "5 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "ELIQUIS",
+          "rxcui": "1364447",
+          "ndc": "00003089421",
+          "strength": "5 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Furosemide",
+          "rxcui": "197730",
+          "ndc": "00054329446",
+          "strength": "10 mg/mL",
+          "dosage_form": "SOLUTION",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Pregabalin",
+          "rxcui": "483438",
+          "ndc": "27808023701",
+          "strength": "100 mg/1",
+          "dosage_form": "CAPSULE",
+          "quantity_per_fill": 90,
+          "days_supply": 90,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101376558403",
+        "chain_name": "ABBEY PHARMACY - LANSING",
+        "location_name": "ABBEY PHARMACY - LANSING",
+        "address": "1540 LAKE LANSING RD SUITE 106",
+        "city": "LANSING",
+        "zip_code": "48912"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "Yes"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Yes"
+    },
+    "tier3": {
+      "explanation_focus": "Balanced overview"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_005",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "48910",
+      "medications": [
+        {
+          "medication_name": "Lexapro",
+          "rxcui": "404408",
+          "ndc": "00456200501",
+          "strength": "5 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Trulicity",
+          "rxcui": "1551300",
+          "ndc": "00002143380",
+          "strength": ".75 mg/.5mL",
+          "dosage_form": "INJECTION, SOLUTION",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Duloxetine",
+          "rxcui": "596934",
+          "ndc": "27241009990",
+          "strength": "60 mg/1",
+          "dosage_form": "CAPSULE, DELAYED RELEASE",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Aldactone",
+          "rxcui": "200817",
+          "ndc": "00025104131",
+          "strength": "50 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 90,
+          "days_supply": 90,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Namzaric",
+          "rxcui": "1602588",
+          "ndc": "00456121430",
+          "strength": "14; 10 mg/1; mg/1",
+          "dosage_form": "CAPSULE",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101114932258",
+        "chain_name": "CENTRAL PHARMACY - MLK",
+        "location_name": "CENTRAL PHARMACY - MLK",
+        "address": "3500 S MARTIN LUTHER KING JR BLVD",
+        "city": "LANSING",
+        "zip_code": "48910"
+      },
+      "extra_help_status": "Yes",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "No"
+    },
+    "tier3": {
+      "explanation_focus": "Estimated annual total"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "Out of scope: do not present an unqualified personalized cost estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_006",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "48823",
+      "medications": [
+        {
+          "medication_name": "ELIQUIS",
+          "rxcui": "1364441",
+          "ndc": "00003089321",
+          "strength": "2.5 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Fluoxetine",
+          "rxcui": "2532159",
+          "ndc": "13668044330",
+          "strength": "10 mg/1",
+          "dosage_form": "TABLET",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101821517004",
+        "chain_name": "COSTCO PHARMACY #1277",
+        "location_name": "COSTCO PHARMACY #1277",
+        "address": "2540 E SAGINAW HWY",
+        "city": "EAST LANSING",
+        "zip_code": "48823"
+      },
+      "extra_help_status": "I don't know",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Not sure"
+    },
+    "tier3": {
+      "explanation_focus": "Monthly premium and prescription payments"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "Out of scope: do not present an unqualified personalized cost estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_007",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "49525",
+      "medications": [
+        {
+          "medication_name": "OZEMPIC",
+          "rxcui": "2736946",
+          "ndc": "00169170430",
+          "strength": "4 mg/1",
+          "dosage_form": "TABLET",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Metoprolol Tartrate",
+          "rxcui": "866924",
+          "ndc": "00378001805",
+          "strength": "25 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "FARXIGA",
+          "rxcui": "1486981",
+          "ndc": "00310620530",
+          "strength": "5 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101346255452",
+        "chain_name": "CVS PHARMACY #05610",
+        "location_name": "CVS PHARMACY #05610",
+        "address": "3590 PLAINFIELD AVE NE",
+        "city": "GRAND RAPIDS",
+        "zip_code": "49525"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "Yes"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Yes"
+    },
+    "tier3": {
+      "explanation_focus": "Why costs may vary during the year"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_008",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "49503",
+      "medications": [
+        {
+          "medication_name": "Synthroid",
+          "rxcui": "966158",
+          "ndc": "00074434190",
+          "strength": "25 ug/1",
+          "dosage_form": "TABLET",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101174538284",
+        "chain_name": "COMMUNITY, A WALGREENS PHARMACY",
+        "location_name": "COMMUNITY, A WALGREENS PHARMACY",
+        "address": "555 MICHIGAN ST NE STE 100",
+        "city": "GRAND RAPIDS",
+        "zip_code": "49503"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "No"
+    },
+    "tier3": {
+      "explanation_focus": "Balanced overview"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_009",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "49512",
+      "medications": [
+        {
+          "medication_name": "Carvedilol Phosphate",
+          "rxcui": "860510",
+          "ndc": "57664066383",
+          "strength": "10 mg/1",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "ENTRESTO",
+          "rxcui": "1656346",
+          "ndc": "00078065920",
+          "strength": "24; 26 mg/1; mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": false
+        },
+        {
+          "medication_name": "Warfarin Sodium",
+          "rxcui": "855288",
+          "ndc": "00093171201",
+          "strength": "1 mg/1",
+          "dosage_form": "TABLET",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "COMBIGAN",
+          "rxcui": "861637",
+          "ndc": "00023921105",
+          "strength": "2; 5 mg/mL; mg/mL",
+          "dosage_form": "SOLUTION/ DROPS",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101619982725",
+        "chain_name": "COSTCO PHARMACY #784",
+        "location_name": "COSTCO PHARMACY #784",
+        "address": "5100 28TH ST SE",
+        "city": "GRAND RAPIDS",
+        "zip_code": "49512"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Not sure"
+    },
+    "tier3": {
+      "explanation_focus": "Estimated annual total"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_010",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "49684",
+      "medications": [
+        {
+          "medication_name": "Plavix",
+          "rxcui": "213169",
+          "ndc": "00024117190",
+          "strength": "75 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": false
+        },
+        {
+          "medication_name": "Glucotrol",
+          "rxcui": "865573",
+          "ndc": "00049017402",
+          "strength": "5 mg/1",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "SYMBICORT",
+          "rxcui": "1246306",
+          "ndc": "00186037020",
+          "strength": "160; 4.5 ug/1; ug/1",
+          "dosage_form": "AEROSOL",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101144236522",
+        "chain_name": "CVS PHARMACY #06843",
+        "location_name": "CVS PHARMACY #06843",
+        "address": "626 W FRONT ST",
+        "city": "TRAVERSE CITY",
+        "zip_code": "49684"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "Yes"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Yes"
+    },
+    "tier3": {
+      "explanation_focus": "Monthly premium and prescription payments"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_011",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "49686",
+      "medications": [
+        {
+          "medication_name": "Pregabalin",
+          "rxcui": "483438",
+          "ndc": "27808023701",
+          "strength": "100 mg/1",
+          "dosage_form": "CAPSULE",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101154840346",
+        "chain_name": "COSTCO PHARMACY #1279",
+        "location_name": "COSTCO PHARMACY #1279",
+        "address": "125 E S AIRPORT RD",
+        "city": "TRAVERSE CITY",
+        "zip_code": "49686"
+      },
+      "extra_help_status": "Yes",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "No"
+    },
+    "tier3": {
+      "explanation_focus": "Why costs may vary during the year"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "Out of scope: do not present an unqualified personalized cost estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_012",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "48226",
+      "medications": [
+        {
+          "medication_name": "Aldactone",
+          "rxcui": "200817",
+          "ndc": "00025104131",
+          "strength": "50 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Namzaric",
+          "rxcui": "1602588",
+          "ndc": "00456121430",
+          "strength": "14; 10 mg/1; mg/1",
+          "dosage_form": "CAPSULE",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101023663366",
+        "chain_name": "CVS PHARMACY #07385",
+        "location_name": "CVS PHARMACY #07385",
+        "address": "200 RENAISSANCE CENTER",
+        "city": "DETROIT",
+        "zip_code": "48226"
+      },
+      "extra_help_status": "I don't know",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Not sure"
+    },
+    "tier3": {
+      "explanation_focus": "Balanced overview"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "Out of scope: do not present an unqualified personalized cost estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_013",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "48202",
+      "medications": [
+        {
+          "medication_name": "WELLBUTRIN",
+          "rxcui": "993528",
+          "ndc": "00173013555",
+          "strength": "150 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "fluticasone propionate and salmeterol",
+          "rxcui": "896228",
+          "ndc": "00054032856",
+          "strength": "50; 500 ug/1; ug/1",
+          "dosage_form": "POWDER",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Amlodipine besylate and Atorvastatin calcium",
+          "rxcui": "404013",
+          "ndc": "43598031330",
+          "strength": "10; 80 mg/1; mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101578735015",
+        "chain_name": "A AND M PHARMACY INC",
+        "location_name": "A AND M PHARMACY INC",
+        "address": "8282 WOODWARD AVE",
+        "city": "DETROIT",
+        "zip_code": "48202"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "Yes"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Yes"
+    },
+    "tier3": {
+      "explanation_focus": "Estimated annual total"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_014",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "48503",
+      "medications": [
+        {
+          "medication_name": "Namzaric",
+          "rxcui": "1805427",
+          "ndc": "00456120730",
+          "strength": "7; 10 mg/1; mg/1",
+          "dosage_form": "CAPSULE",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Finasteride",
+          "rxcui": "310346",
+          "ndc": "57237006205",
+          "strength": "5 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Norvasc",
+          "rxcui": "212542",
+          "ndc": "00069152068",
+          "strength": "2.5 mg/1",
+          "dosage_form": "TABLET",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Avalide",
+          "rxcui": "823934",
+          "ndc": "00024585530",
+          "strength": "150; 12.5 mg/1; mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 90,
+          "days_supply": 90,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101801388020",
+        "chain_name": "BINSON'S OUTPATIENT PHARMACY",
+        "location_name": "BINSON'S OUTPATIENT PHARMACY",
+        "address": "1 HURLEY PLAZA STE 100",
+        "city": "FLINT",
+        "zip_code": "48503"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "No"
+    },
+    "tier3": {
+      "explanation_focus": "Monthly premium and prescription payments"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_015",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "48506",
+      "medications": [
+        {
+          "medication_name": "ADVAIR",
+          "rxcui": "896185",
+          "ndc": "00173069500",
+          "strength": "50; 100 ug/1; ug/1",
+          "dosage_form": "POWDER",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "KLOR-CON",
+          "rxcui": "1867547",
+          "ndc": "00245036030",
+          "strength": "1.5 g/1",
+          "dosage_form": "POWDER, FOR SOLUTION",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Omeprazole",
+          "rxcui": "199119",
+          "ndc": "00781285931",
+          "strength": "10 mg/1",
+          "dosage_form": "CAPSULE, DELAYED RELEASE",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Tamsulosin Hydrochloride",
+          "rxcui": "863669",
+          "ndc": "68382013201",
+          "strength": ".4 mg/1",
+          "dosage_form": "CAPSULE",
+          "quantity_per_fill": 90,
+          "days_supply": 90,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Xarelto",
+          "rxcui": "2588066",
+          "ndc": "50458057501",
+          "strength": "155 mg/1",
+          "dosage_form": "GRANULE, FOR SUSPENSION",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": false
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101992710024",
+        "chain_name": "CENTRAL PHARMACY-EAST, LLC",
+        "location_name": "CENTRAL PHARMACY-EAST, LLC",
+        "address": "3097 N GENESEE RD",
+        "city": "FLINT",
+        "zip_code": "48506"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Not sure"
+    },
+    "tier3": {
+      "explanation_focus": "Why costs may vary during the year"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_016",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "49006",
+      "medications": [
+        {
+          "medication_name": "COMBIGAN",
+          "rxcui": "861637",
+          "ndc": "00023921105",
+          "strength": "2; 5 mg/mL; mg/mL",
+          "dosage_form": "SOLUTION/ DROPS",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "JANUMET",
+          "rxcui": "1243848",
+          "ndc": "00006007861",
+          "strength": "50; 500 mg/1; mg/1",
+          "dosage_form": "TABLET, FILM COATED, EXTENDED RELEASE",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101982012001",
+        "chain_name": "COSTCO PHARMACY #1191",
+        "location_name": "COSTCO PHARMACY #1191",
+        "address": "5100 CENTURY AVE",
+        "city": "KALAMAZOO",
+        "zip_code": "49006"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "Yes"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Yes"
+    },
+    "tier3": {
+      "explanation_focus": "Balanced overview"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_017",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "49001",
+      "medications": [
+        {
+          "medication_name": "BiDil",
+          "rxcui": "905379",
+          "ndc": "24338001009",
+          "strength": "37.5; 20 mg/1; mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Synthroid",
+          "rxcui": "966271",
+          "ndc": "00074372790",
+          "strength": "137 ug/1",
+          "dosage_form": "TABLET",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Lexapro",
+          "rxcui": "404408",
+          "ndc": "00456200501",
+          "strength": "5 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": false
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101457490419",
+        "chain_name": "ARCADIA PHARMACY",
+        "location_name": "ARCADIA PHARMACY",
+        "address": "615 E CROSSTOWN PKWY STE 100",
+        "city": "KALAMAZOO",
+        "zip_code": "49001"
+      },
+      "extra_help_status": "Yes",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "No"
+    },
+    "tier3": {
+      "explanation_focus": "Estimated annual total"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "Out of scope: do not present an unqualified personalized cost estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_018",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "48801",
+      "medications": [
+        {
+          "medication_name": "Zestril",
+          "rxcui": "104375",
+          "ndc": "24979023807",
+          "strength": "2.5 mg/1",
+          "dosage_form": "TABLET",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101558388868",
+        "chain_name": "ALMA FAMILY PHARMACY",
+        "location_name": "ALMA FAMILY PHARMACY",
+        "address": "1686 WRIGHT AVE STE C",
+        "city": "ALMA",
+        "zip_code": "48801"
+      },
+      "extra_help_status": "I don't know",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Not sure"
+    },
+    "tier3": {
+      "explanation_focus": "Monthly premium and prescription payments"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "Out of scope: do not present an unqualified personalized cost estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_019",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "49931",
+      "medications": [
+        {
+          "medication_name": "Losartan Potassium",
+          "rxcui": "979485",
+          "ndc": "65862020199",
+          "strength": "25 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": false
+        },
+        {
+          "medication_name": "Protonix",
+          "rxcui": "284400",
+          "ndc": "00008084181",
+          "strength": "40 mg/1",
+          "dosage_form": "TABLET, DELAYED RELEASE",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "OZEMPIC",
+          "rxcui": "2736946",
+          "ndc": "00169170430",
+          "strength": "4 mg/1",
+          "dosage_form": "TABLET",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Metoprolol Tartrate",
+          "rxcui": "866924",
+          "ndc": "00378001805",
+          "strength": "25 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 90,
+          "days_supply": 90,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101134598170",
+        "chain_name": "APOTHECARY HOUGHTON",
+        "location_name": "APOTHECARY HOUGHTON",
+        "address": "600 MACINNES DRIVE",
+        "city": "HOUGHTON",
+        "zip_code": "49931"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "Yes"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Yes"
+    },
+    "tier3": {
+      "explanation_focus": "Why costs may vary during the year"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_020",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "49855",
+      "medications": [
+        {
+          "medication_name": "Zoloft",
+          "rxcui": "212233",
+          "ndc": "58151057493",
+          "strength": "25 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "VENTOLIN",
+          "rxcui": "859088",
+          "ndc": "00173068220",
+          "strength": "90 ug/1",
+          "dosage_form": "AEROSOL, METERED",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Synthroid",
+          "rxcui": "966158",
+          "ndc": "00074434190",
+          "strength": "25 ug/1",
+          "dosage_form": "TABLET",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101437385143",
+        "chain_name": "CAMPUS PHARMACY",
+        "location_name": "CAMPUS PHARMACY",
+        "address": "1015 NORTH THIRD ST",
+        "city": "MARQUETTE",
+        "zip_code": "49855"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "No"
+    },
+    "tier3": {
+      "explanation_focus": "Balanced overview"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_021",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "49781",
+      "medications": [
+        {
+          "medication_name": "Avalide",
+          "rxcui": "823934",
+          "ndc": "00024585530",
+          "strength": "150; 12.5 mg/1; mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101124548292",
+        "chain_name": "BAY PHARMACY",
+        "location_name": "BAY PHARMACY",
+        "address": "112 S STATE ST",
+        "city": "SAINT IGNACE",
+        "zip_code": "49781"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Not sure"
+    },
+    "tier3": {
+      "explanation_focus": "Estimated annual total"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_022",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "49615",
+      "medications": [
+        {
+          "medication_name": "Tamsulosin Hydrochloride",
+          "rxcui": "863669",
+          "ndc": "68382013201",
+          "strength": ".4 mg/1",
+          "dosage_form": "CAPSULE",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Xarelto",
+          "rxcui": "2588066",
+          "ndc": "50458057501",
+          "strength": "155 mg/1",
+          "dosage_form": "GRANULE, FOR SUSPENSION",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101669572996",
+        "chain_name": "BELLAIRE FAMILY HEALTH CENTER PHARMACY",
+        "location_name": "BELLAIRE FAMILY HEALTH CENTER PHARMACY",
+        "address": "4955 S M 88 HWY",
+        "city": "BELLAIRE",
+        "zip_code": "49615"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "Yes"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Yes"
+    },
+    "tier3": {
+      "explanation_focus": "Monthly premium and prescription payments"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_023",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "49601",
+      "medications": [
+        {
+          "medication_name": "ELIQUIS",
+          "rxcui": "1364447",
+          "ndc": "00003089421",
+          "strength": "5 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Furosemide",
+          "rxcui": "197730",
+          "ndc": "00054329446",
+          "strength": "10 mg/mL",
+          "dosage_form": "SOLUTION",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Pregabalin",
+          "rxcui": "483438",
+          "ndc": "27808023701",
+          "strength": "100 mg/1",
+          "dosage_form": "CAPSULE",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101730194028",
+        "chain_name": "CADILLAC FAMILY PHARMACY LLC",
+        "location_name": "CADILLAC FAMILY PHARMACY LLC",
+        "address": "108 N MITCHELL",
+        "city": "CADILLAC",
+        "zip_code": "49601"
+      },
+      "extra_help_status": "Yes",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "No"
+    },
+    "tier3": {
+      "explanation_focus": "Why costs may vary during the year"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "Out of scope: do not present an unqualified personalized cost estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_024",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "49221",
+      "medications": [
+        {
+          "medication_name": "Trulicity",
+          "rxcui": "1551300",
+          "ndc": "00002143380",
+          "strength": ".75 mg/.5mL",
+          "dosage_form": "INJECTION, SOLUTION",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Duloxetine",
+          "rxcui": "596934",
+          "ndc": "27241009990",
+          "strength": "60 mg/1",
+          "dosage_form": "CAPSULE, DELAYED RELEASE",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Aldactone",
+          "rxcui": "200817",
+          "ndc": "00025104131",
+          "strength": "50 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Namzaric",
+          "rxcui": "1602588",
+          "ndc": "00456121430",
+          "strength": "14; 10 mg/1; mg/1",
+          "dosage_form": "CAPSULE",
+          "quantity_per_fill": 90,
+          "days_supply": 90,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101487669529",
+        "chain_name": "ADRIAN FMC PHARMACY",
+        "location_name": "ADRIAN FMC PHARMACY",
+        "address": "1200 N MAIN ST",
+        "city": "ADRIAN",
+        "zip_code": "49221"
+      },
+      "extra_help_status": "I don't know",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Not sure"
+    },
+    "tier3": {
+      "explanation_focus": "Balanced overview"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "Out of scope: do not present an unqualified personalized cost estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_025",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "48302",
+      "medications": [
+        {
+          "medication_name": "Fluoxetine",
+          "rxcui": "2532159",
+          "ndc": "13668044330",
+          "strength": "10 mg/1",
+          "dosage_form": "TABLET",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Humalog",
+          "rxcui": "865098",
+          "ndc": "00002751001",
+          "strength": "100 [iU]/mL",
+          "dosage_form": "INJECTION, SOLUTION",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "WELLBUTRIN",
+          "rxcui": "993528",
+          "ndc": "00173013555",
+          "strength": "150 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "fluticasone propionate and salmeterol",
+          "rxcui": "896228",
+          "ndc": "00054032856",
+          "strength": "50; 500 ug/1; ug/1",
+          "dosage_form": "POWDER",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": false
+        },
+        {
+          "medication_name": "Amlodipine besylate and Atorvastatin calcium",
+          "rxcui": "404013",
+          "ndc": "43598031330",
+          "strength": "10; 80 mg/1; mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101114037736",
+        "chain_name": "COSTCO PHARMACY #1037",
+        "location_name": "COSTCO PHARMACY #1037",
+        "address": "2343 S TELEGRAPH RD",
+        "city": "BLOOMFIELD",
+        "zip_code": "48302"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "Yes"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Yes"
+    },
+    "tier3": {
+      "explanation_focus": "Estimated annual total"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_026",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "48326",
+      "medications": [
+        {
+          "medication_name": "Metoprolol Tartrate",
+          "rxcui": "866924",
+          "ndc": "00378001805",
+          "strength": "25 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "FARXIGA",
+          "rxcui": "1486981",
+          "ndc": "00310620530",
+          "strength": "5 mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101669582284",
+        "chain_name": "AUBURN HILLS PHARMACY",
+        "location_name": "AUBURN HILLS PHARMACY",
+        "address": "3089 E WALTON BLVD",
+        "city": "AUBURN HILLS",
+        "zip_code": "48326"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "No"
+    },
+    "tier3": {
+      "explanation_focus": "Monthly premium and prescription payments"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_027",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "48638",
+      "medications": [
+        {
+          "medication_name": "MONTELUKAST SODIUM",
+          "rxcui": "351246",
+          "ndc": "27241001531",
+          "strength": "4 mg/1",
+          "dosage_form": "GRANULE",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Allopurinol",
+          "rxcui": "197320",
+          "ndc": "00603211628",
+          "strength": "300 mg/1",
+          "dosage_form": "TABLET",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": false
+        },
+        {
+          "medication_name": "ADVAIR",
+          "rxcui": "896185",
+          "ndc": "00173069500",
+          "strength": "50; 100 ug/1; ug/1",
+          "dosage_form": "POWDER",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101740207968",
+        "chain_name": "AROGYA PHARMACY",
+        "location_name": "AROGYA PHARMACY",
+        "address": "5470 GRATIOT RD",
+        "city": "SAGINAW",
+        "zip_code": "48638"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Not sure"
+    },
+    "tier3": {
+      "explanation_focus": "Why costs may vary during the year"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_028",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "48706",
+      "medications": [
+        {
+          "medication_name": "ENTRESTO",
+          "rxcui": "1656346",
+          "ndc": "00078065920",
+          "strength": "24; 26 mg/1; mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": false
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101538174651",
+        "chain_name": "ANDERSON PHARMACY",
+        "location_name": "ANDERSON PHARMACY",
+        "address": "1108 MARQUETTE AVE",
+        "city": "BAY CITY",
+        "zip_code": "48706"
+      },
+      "extra_help_status": "No",
+      "first_time_part_d": "Yes"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Yes"
+    },
+    "tier3": {
+      "explanation_focus": "Balanced overview"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "In scope for unsubsidized MVP estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_029",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "49615",
+      "medications": [
+        {
+          "medication_name": "Glucotrol",
+          "rxcui": "865573",
+          "ndc": "00049017402",
+          "strength": "5 mg/1",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "SYMBICORT",
+          "rxcui": "1246306",
+          "ndc": "00186037020",
+          "strength": "160; 4.5 ug/1; ug/1",
+          "dosage_form": "AEROSOL",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "BiDil",
+          "rxcui": "905379",
+          "ndc": "24338001009",
+          "strength": "37.5; 20 mg/1; mg/1",
+          "dosage_form": "TABLET, FILM COATED",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Synthroid",
+          "rxcui": "966271",
+          "ndc": "00074372790",
+          "strength": "137 ug/1",
+          "dosage_form": "TABLET",
+          "quantity_per_fill": 90,
+          "days_supply": 90,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101669865838",
+        "chain_name": "BELLAIRE PHARMACY INC",
+        "location_name": "BELLAIRE PHARMACY INC",
+        "address": "120 NORTH BRIDGE STREET",
+        "city": "BELLAIRE",
+        "zip_code": "49615"
+      },
+      "extra_help_status": "Yes",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "No"
+    },
+    "tier3": {
+      "explanation_focus": "Estimated annual total"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "Out of scope: do not present an unqualified personalized cost estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  },
+  {
+    "profile_id": "MI_SYN_030",
+    "tier1": {
+      "lives_in_michigan": "Yes",
+      "zip_code": "49080",
+      "medications": [
+        {
+          "medication_name": "Trazodone Hydrochloride",
+          "rxcui": "856369",
+          "ndc": "13668033301",
+          "strength": "300 mg/1",
+          "dosage_form": "TABLET",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Latanoprost",
+          "rxcui": "314072",
+          "ndc": "61314054701",
+          "strength": "50 ug/mL",
+          "dosage_form": "SOLUTION",
+          "quantity_per_fill": 1,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        },
+        {
+          "medication_name": "Zestril",
+          "rxcui": "104375",
+          "ndc": "24979023807",
+          "strength": "2.5 mg/1",
+          "dosage_form": "TABLET",
+          "quantity_per_fill": 30,
+          "days_supply": 30,
+          "assume_year_round_use": true
+        }
+      ],
+      "pharmacy_location": {
+        "location_id": "101003821398",
+        "chain_name": "CAMPBELLS PHARMACY",
+        "location_name": "CAMPBELLS PHARMACY",
+        "address": "102 S MAIN ST",
+        "city": "PLAINWELL",
+        "zip_code": "49080"
+      },
+      "extra_help_status": "I don't know",
+      "first_time_part_d": "No"
+    },
+    "tier2": {
+      "consider_another_retail_pharmacy": "Not sure"
+    },
+    "tier3": {
+      "explanation_focus": "Monthly premium and prescription payments"
+    },
+    "scope_checks": {
+      "cost_estimate_scope": "Out of scope: do not present an unqualified personalized cost estimate",
+      "extra_help_eligibility_determined": false,
+      "zip_used_to_filter_statewide_pdp_plans": false
+    },
+    "pharmacy_network_status": "Not verified"
+  }
+]
