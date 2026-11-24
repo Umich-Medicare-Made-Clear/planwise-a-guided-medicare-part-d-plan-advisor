@@ -66,6 +66,10 @@ if st.button("Continue to medications", use_container_width=True):
     elif assistance is None:
         st.error("Please select an assistance option.")
 
+    elif assistance != "I don't receive any of these":
+        st.warning("This product does not take into account any assistance programs. 
+                    Results may not be accurate.")
+
     elif part_d_experience is None:
         st.error("Please answer the Medicare Part D question.")
 
