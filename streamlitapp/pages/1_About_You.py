@@ -6,8 +6,10 @@ st.write("Let's start with a few questions to help us find plans available in yo
 
 st.divider()
 
-# ZIP Code
+# State & ZIP Code
 st.subheader("Where do you live?")
+
+state = st.radio("Do you live in Michigan?", ["Yes", "No"], index=None, horizontal=True)
 
 zip_code = st.text_input(
     "ZIP code",
@@ -55,7 +57,10 @@ st.divider()
 # Continue Button
 if st.button("Continue to medications", use_container_width=True):
 
-    if len(zip_code) != 5 or not zip_code.isdigit():
+    if state == "No":
+        st.error("This product is only valid for Michigan residents.")
+        
+    elif len(zip_code) != 5 or not zip_code.isdigit():
         st.error("Please enter a valid 5-digit ZIP code.")
 
     elif assistance is None:
