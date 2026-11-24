@@ -68,6 +68,12 @@ if st.button("Continue to medications", use_container_width=True):
 
     elif assistance != "I don't receive any of these":
         st.warning("This product does not take into account any assistance programs. Results may not be accurate.")
+        
+        if st.button("Continue anyway", use_container_width=True):
+            st.session_state.zip_code = zip_code
+            st.session_state.assistance = assistance
+            st.session_state.part_d_experience = part_d_experience
+            st.switch_page("pages/2_Medications.py")
 
     elif part_d_experience is None:
         st.error("Please answer the Medicare Part D question.")
