@@ -54,39 +54,34 @@ part_d_experience = st.radio(
 
 st.divider()
 
-# Continue Button
-if st.button("Continue to medications", use_container_width=True):
-
-    if state == "No":
-        st.error("This product is only valid for Michigan residents.")
-        
-    elif len(zip_code) != 5 or not zip_code.isdigit():
-        st.error("Please enter a valid 5-digit ZIP code.")
-
-    elif assistance is None:
-        st.error("Please select an assistance option.")
-
-    elif assistance != "I don't receive any of these":
-        if "confirmed_assistance" not in st.session_state:
-            st.session_state.confirmed_assistance = False
-            
-        st.warning("This product does not take into account any assistance programs. Results may not be accurate.")
-        
-        if st.button("Continue anyway", use_container_width=True):
-            st.session_state.confirmed_assistance = True
-            st.session_state.zip_code = zip_code
-            st.session_state.assistance = assistance
-            st.session_state.part_d_experience = part_d_experience
-            st.switch_page("pages/2_Medications.py")
-        
-        st.stop()
-
-    elif part_d_experience is None:
-        st.error("Please answer the Medicare Part D question.")
-
-    else:
+# Show assistance warning if applicable
+if assistance is not None and assistance != "I don't receive any of these":
+    st.warning("This product does not take into account any assistance programs. Results may not be accurate.")
+    
+    if st.button("Continue anyway", use_container_width=True):
         st.session_state.zip_code = zip_code
         st.session_state.assistance = assistance
         st.session_state.part_d_experience = part_d_experience
-
         st.switch_page("pages/2_Medications.py")
+else:
+    # Continue Button
+    if st.button("Continue to medications", use_container_width=True):
+
+        if state == "No":
+            st.error("This product is only valid for Michigan residents.")
+            
+        elif len(zip_code) != 5 or not zip_code.isdigit():
+            st.error("Please enter a valid 5-digit ZIP code.")
+
+        elif assistance is None:
+            st.error("Please select an assistance option.")
+
+        elif part_d_experience is None:
+            st.error("Please answer the Medicare Part D question.")
+
+        else:
+            st.session_state.zip_code = zip_code
+            st.session_state.assistance = assistance
+            st.session_state.part_d_experience = part_d_experience
+
+            st.switch_page("pages/2_Medications.py")
