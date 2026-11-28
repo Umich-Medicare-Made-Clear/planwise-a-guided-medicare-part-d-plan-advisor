@@ -50,15 +50,11 @@ with st.expander("Review your intake answers (testing)"):
 
     st.write(f"**Preferred pharmacy:** {st.session_state.get('pharmacy', 'Not provided')}")
     st.write(f"**Willing to switch pharmacies:** {st.session_state.get('switch_pharmacy', 'Not provided')}")
-    st.write(f"**Willing to use mail order:** {st.session_state.get('mail_order', 'Not provided')}")
 
     st.divider()
 
     st.subheader("Plan preferences")
 
-    st.write(f"**Generic medications:** {st.session_state.get('generic_preference', 'Not provided')}")
-    st.write(f"**Expecting new medications:** {st.session_state.get('expect_new_meds', 'Not provided')}")
-    st.write(f"**Potential new medication:** {st.session_state.get('new_med_category', 'Not provided')}")
     st.write(f"**Cost priority:** {st.session_state.get('cost_preference', 'Not provided')}")
 
 
