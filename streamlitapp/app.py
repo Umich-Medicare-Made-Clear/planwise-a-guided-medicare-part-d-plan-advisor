@@ -53,7 +53,7 @@ recommendations = st.Page("pages/5_Recommendations.py", title="Your recommendati
 
 # Set up navigation
 page = st.navigation(
-    [welcome, about_you, medications, pharmacy, plan_preferences, additional_questions, recommendations],
+    [welcome, about_you, medications, pharmacy, plan_preferences, recommendations],
     position="hidden"
 )
 
