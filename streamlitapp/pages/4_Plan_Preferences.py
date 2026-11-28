@@ -41,4 +41,4 @@ with continue_col:
         else:
             st.session_state.cost_preference = cost_preference
 
-            st.switch_page("pages/5_Additional_Questions.py")
+            st.switch_page("pages/5_Recommendations.py")
