@@ -23,12 +23,8 @@ def collect_intake_data(session_state):
             "no_pharmacy_preference", False
         ),
         "switch_pharmacy": session_state.get("switch_pharmacy", ""),
-        "mail_order": session_state.get("mail_order", ""),
 
         # Plan preferences
-        "generic_preference": session_state.get("generic_preference", ""),
-        "expect_new_meds": session_state.get("expect_new_meds", ""),
-        "new_med_category": session_state.get("new_med_category", ""),
         "cost_preference": session_state.get("cost_preference", "")
     }
 
