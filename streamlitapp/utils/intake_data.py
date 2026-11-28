@@ -25,7 +25,7 @@ def collect_intake_data(session_state):
         "switch_pharmacy": session_state.get("switch_pharmacy", ""),
 
         # Plan preferences
-        "cost_preference": session_state.get("cost_preference", "")
+        "exp_preference": session_state.get("exp_preference", "")
     }
 
     return intake_data
