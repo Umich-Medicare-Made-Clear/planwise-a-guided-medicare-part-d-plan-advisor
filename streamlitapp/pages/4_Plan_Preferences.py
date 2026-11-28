@@ -9,15 +9,16 @@ st.write(
 
 st.divider()
 
-# Cost preferences
+# Explanation Preference
 st.subheader("Your cost preferences")
 
-cost_preference = st.radio(
-    "Which would you prioritize when choosing a plan?",
+exp_preference = st.radio(
+    "Which would you prioritize when having plans explained to you?",
     [
-        "The lowest estimated total annual cost",
-        "More predictable costs throughout the year",
-        "A balance between cost and predictability",
+        "Estimated annual total",
+        "Monthly premium and prescription payments",
+        "Why costs may vary during the year",
+        "Balanced overview",
         "I'm not sure"
     ],
     index=None
@@ -35,10 +36,10 @@ with back_col:
 with continue_col:
     if st.button("Continue", use_container_width=True):
 
-        if cost_preference is None:
+        if exp_preference is None:
             st.error("Please select a cost preference.")
 
         else:
-            st.session_state.cost_preference = cost_preference
+            st.session_state.cost_preference = exp_preference
 
             st.switch_page("pages/5_Recommendations.py")
