@@ -35,7 +35,7 @@ with back_col:
 with continue_col:
     if st.button("Continue", use_container_width=True):
 
-        elif cost_preference is None:
+        if cost_preference is None:
             st.error("Please select a cost preference.")
 
         else:
