@@ -36,17 +36,6 @@ switch_pharmacy = st.radio(
 
 st.divider()
 
-# Mail order
-st.subheader("Would you consider using a mail-order pharmacy?")
-
-mail_order = st.radio(
-    "Mail-order pharmacies may offer convenient home delivery and lower costs for some medications.",
-    ["Yes", "No", "I'm not sure"],
-    index=None
-)
-
-st.divider()
-
 # Navigation
 back_col, continue_col = st.columns([1, 3])
 
@@ -63,15 +52,11 @@ with continue_col:
         elif switch_pharmacy is None:
             st.error("Please answer whether you would consider a different pharmacy.")
 
-        elif mail_order is None:
-            st.error("Please answer whether you would consider mail order.")
-
         else:
             st.session_state.pharmacy = (
                 "No preference" if no_preference else pharmacy.strip()
             )
             st.session_state.no_pharmacy_preference = no_preference
             st.session_state.switch_pharmacy = switch_pharmacy
-            st.session_state.mail_order = mail_order
 
             st.switch_page("pages/4_Plan_Preferences.py")
